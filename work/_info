@@ -1,0 +1,304 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/ENG/My Work/Diploma Summer 2021/Project/All Verilog Files
+vALU
+!s110 1632549040
+!i10b 1
+!s100 XRzz>]lHK;c<PXd1O3XY61
+IUAz;UPic]mj4_Phejid<I2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1632548369
+8.\ALU.v
+F.\ALU.v
+Z2 L0 10
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1632549040.000000
+!s107 .\ALU.v|
+!s90 .\ALU.v|
+!i113 1
+Z4 tCvgOpt 0
+n@a@l@u
+vCLK_GATE
+!s110 1632470971
+!i10b 1
+!s100 VXXQHUHYbEghDOm<A67WH2
+IIG1T3fge@MD`S0ZNzl0b[3
+R1
+R0
+w1631593974
+8.\CLK_GATE.v
+F.\CLK_GATE.v
+L0 6
+R3
+r1
+!s85 0
+31
+!s108 1632470971.000000
+!s107 .\CLK_GATE.v|
+!s90 .\CLK_GATE.v|
+!i113 1
+R4
+n@c@l@k_@g@a@t@e
+vClock_Divider
+!s110 1632573661
+!i10b 1
+!s100 XEfdjoL>LZi6bGI3CPk9C0
+IM[I?NCcodX?Wz^hUkl9dC1
+R1
+R0
+w1632573658
+8.\Clock_Divider.v
+F.\Clock_Divider.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632573661.000000
+!s107 .\Clock_Divider.v|
+!s90 .\Clock_Divider.v|
+!i113 1
+R4
+n@clock_@divider
+vCounter_Data
+!s110 1632470987
+!i10b 1
+!s100 i3aYhBoA[JB3mAA:NKCbJ0
+IkjF99zm6jCC6Rk>UGW:hg2
+R1
+R0
+w1632287813
+8.\Counter_Data.v
+F.\Counter_Data.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632470987.000000
+!s107 .\Counter_Data.v|
+!s90 .\Counter_Data.v|
+!i113 1
+R4
+n@counter_@data
+vFSM_Control_Unit
+!s110 1632473770
+!i10b 1
+!s100 4ZOVFz8^SzYH`d^XoVeIc3
+IGP<D[;T`4nfNjkZR>Pi=c1
+R1
+R0
+w1632473748
+8.\FSM_Control_Unit.v
+F.\FSM_Control_Unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632473770.000000
+!s107 .\FSM_Control_Unit.v|
+!s90 .\FSM_Control_Unit.v|
+!i113 1
+R4
+n@f@s@m_@control_@unit
+vFSM_Controller
+!s110 1632471010
+!i10b 1
+!s100 >cl8<IMe7YBa_hRBQA4UP0
+I^]W6OG>8j@WU1_CRTL`e`1
+R1
+R0
+w1632370275
+8.\FSM_Controller.v
+F.\FSM_Controller.v
+L0 9
+R3
+r1
+!s85 0
+31
+!s108 1632471010.000000
+!s107 .\FSM_Controller.v|
+!s90 .\FSM_Controller.v|
+!i113 1
+R4
+n@f@s@m_@controller
+vFSM_Data_Transmission
+!s110 1632474092
+!i10b 1
+!s100 2eTfNGb:SP][i`iLQ9g<83
+Iz5fH^[?OGdhUUo1TWWkDj2
+R1
+R0
+w1632474059
+8.\FSM_Data_Transmission.v
+F.\FSM_Data_Transmission.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632474092.000000
+!s107 .\FSM_Data_Transmission.v|
+!s90 .\FSM_Data_Transmission.v|
+!i113 1
+R4
+n@f@s@m_@data_@transmission
+vParity
+!s110 1632471033
+!i10b 1
+!s100 =a?B^nGmlW7E>LH:AA1ID3
+Ie30IRG1?QkMUimEXTi^[X1
+R1
+R0
+w1632284813
+8.\Parity.v
+F.\Parity.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632471033.000000
+!s107 .\Parity.v|
+!s90 .\Parity.v|
+!i113 1
+R4
+n@parity
+vRegFile
+!s110 1632471044
+!i10b 1
+!s100 KK]fQhUUCE9_@nz3U9]d50
+IRbZZ6MbBeJ=K3>UmHmi:72
+R1
+R0
+w1632102400
+8.\RegFile.v
+F.\RegFile.v
+R2
+R3
+r1
+!s85 0
+31
+!s108 1632471044.000000
+!s107 .\RegFile.v|
+!s90 .\RegFile.v|
+!i113 1
+R4
+n@reg@file
+vSave_State_Unit
+!s110 1632471053
+!i10b 1
+!s100 dCcbbRa7KLjZ<7`gKSUbk2
+I03VAOniz8lI24K0Q>o6:X3
+R1
+R0
+w1632362919
+8.\Save_State_Unit.v
+F.\Save_State_Unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632471053.000000
+!s107 .\Save_State_Unit.v|
+!s90 .\Save_State_Unit.v|
+!i113 1
+R4
+n@save_@state_@unit
+vSerializer
+!s110 1632544414
+!i10b 1
+!s100 ]aAZ_4VKm8A5W1U>j;Zg[0
+I6F=<H7l[_`b0C6af1d;[03
+R1
+R0
+w1632475005
+8.\Serializer.v
+F.\Serializer.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1632544414.000000
+!s107 .\Serializer.v|
+!s90 .\Serializer.v|
+!i113 1
+R4
+n@serializer
+vSystem_tb
+!s110 1633422958
+!i10b 1
+!s100 eXQG[KE_BO4Z8KN^FWo<a2
+IN;c3TZ<=C`MnANRhOQoGS0
+R1
+dE:/ENG/My_Work/Diploma Summer 2021/Project/All Verilog Files
+w1632544535
+8.\System_tb.v
+F.\System_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1633422957.000000
+!s107 .\System_tb.v|
+!s90 .\System_tb.v|
+!i113 1
+R4
+n@system_tb
+vSystem_Top
+!s110 1632573707
+!i10b 1
+!s100 [GAk[J_gP>kX>K_fdLlU?3
+IM6KkH;`T1gd541je0j2GA1
+R1
+R0
+w1632573705
+8.\System_Top.v
+F.\System_Top.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1632573707.000000
+!s107 .\System_Top.v|
+!s90 .\System_Top.v|
+!i113 1
+R4
+n@system_@top
+vUART
+!s110 1632471132
+!i10b 1
+!s100 DTM`==A7goi285GgR>S2N0
+I;TU_iFzLII?PXI[`_J[e40
+R1
+R0
+w1632285859
+8.\UART.v
+F.\UART.v
+L0 9
+R3
+r1
+!s85 0
+31
+!s108 1632471132.000000
+!s107 .\UART.v|
+!s90 .\UART.v|
+!i113 1
+R4
+n@u@a@r@t
